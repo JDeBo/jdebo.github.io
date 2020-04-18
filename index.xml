@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin DeBo</title>
+    <link>jdebo.github.io/</link>
+    <description>Recent content on Justin DeBo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2019 07:53:07 -0600</lastBuildDate>
+    
+	<atom:link href="jdebo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bio</title>
+      <link>jdebo.github.io/about/bio/</link>
+      <pubDate>Sat, 16 Nov 2019 07:53:07 -0600</pubDate>
+      
+      <guid>jdebo.github.io/about/bio/</guid>
+      <description>A little bit about me&amp;hellip;
+I&amp;rsquo;m an experienced software developer with a love of music. Many years ago I began studying music as a possible career path. Through that pursuit I learned the value of criticism, developed a sense of creativity and got comfortable performing under pressure. Now I try to apply those same skills in the business world - whether it&amp;rsquo;s setting my ego aside during code reviews, solving architecture challenges infrastructure analysts or making technical topics digestible in executive briefings.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>jdebo.github.io/about/music/</link>
+      <pubDate>Sat, 16 Nov 2019 07:53:07 -0600</pubDate>
+      
+      <guid>jdebo.github.io/about/music/</guid>
+      <description>A little bit about me&amp;hellip;
+I&amp;rsquo;m an experienced software developer with a love of music. Many years ago I began studying music as a possible career path. Through that pursuit I learned the value of criticism, developed a sense of creativity and got comfortable performing under pressure. Now I try to apply those same skills in the business world - whether it&amp;rsquo;s setting my ego aside during code reviews, solving architecture challenges infrastructure analysts or making technical topics digestible in executive briefings.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>jdebo.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jdebo.github.io/resume/</guid>
+      <description>Justin DeBo 1901 Claremont Commons Normal, Illinois 61761 | (309) 533 – 9050 | justin.debo@gmail.com
+Education Millikin University Decatur, Illinois
+Bachelor of Science in Information Systems, May 2018
+Concentration: Data Management
+Minor in Music
+Work Experience  State Farm Insurance Bloomington, IL Summer 2017 – Present  Big Data Developer - Test Data Privacy  Supported sensitive data scanning Hadoop application that ingests data from all enterprise test systems. Supported Splunk application that monitors inbound/outbound traffic to test DB2 Systems Worked on committee focused on accelerating AWS adoption across Enterprise Data Systems area  Data Analyst - Total Loss Technology  Provided ad hoc DB2 reports for Total Loss Claims business partners to respond to production outages.</description>
+    </item>
+    
+  </channel>
+</rss>
