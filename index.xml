@@ -6,10 +6,19 @@
     <description>Recent content on Justin DeBo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 07:53:07 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 07:53:07 -0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Music</title>
+      <link>/about/music/</link>
+      <pubDate>Sun, 19 Apr 2020 07:53:07 -0600</pubDate>
+      
+      <guid>/about/music/</guid>
+      <description>Music has been a big part of my life since I picked up my first pair of drumsticks in fourth grade. In high school at Normal Community West I was introduced to marching band, and to this day I continue my work with that same program as an instructor for their drumline. In college my musical studies continued, taking me to Cuba with the Millikin percussion studio to study Afro-Cuban music, to Australia with my former high school to perform at the Sidney Opera House, and back to Cuba to perform with the Millikin Latin Jazz Project at the Havana International Jazz Festival.</description>
+    </item>
     
     <item>
       <title>Bio</title>
@@ -18,17 +27,16 @@
       
       <guid>/about/bio/</guid>
       <description>A little bit about me&amp;hellip;
-I&amp;rsquo;m an experienced software developer with a love of music. Many years ago I began studying music as a possible career path. Through that pursuit I learned the value of criticism, developed a sense of creativity and got comfortable performing under pressure. Now I try to apply those same skills in the business world - whether it&amp;rsquo;s setting my ego aside during code reviews, solving architecture challenges infrastructure analysts or making technical topics digestible in executive briefings.</description>
+I&amp;rsquo;m an experienced software developer with a love of music. Many years ago I began studying music as a possible career path. Through that pursuit I learned the value of criticism, developed a sense of creativity and got comfortable performing under pressure. Now I try to apply those same skills in the business world - whether it&amp;rsquo;s setting my ego aside during code reviews, solving architecture challenges or making technical topics digestible in executive briefings.</description>
     </item>
     
     <item>
-      <title>Music</title>
-      <link>/about/music/</link>
+      <title>Cuba</title>
+      <link>/posts/music/cuba/</link>
       <pubDate>Sat, 16 Nov 2019 07:53:07 -0600</pubDate>
       
-      <guid>/about/music/</guid>
-      <description>A little bit about me&amp;hellip;
-I&amp;rsquo;m an experienced software developer with a love of music. Many years ago I began studying music as a possible career path. Through that pursuit I learned the value of criticism, developed a sense of creativity and got comfortable performing under pressure. Now I try to apply those same skills in the business world - whether it&amp;rsquo;s setting my ego aside during code reviews, solving architecture challenges infrastructure analysts or making technical topics digestible in executive briefings.</description>
+      <guid>/posts/music/cuba/</guid>
+      <description>In 2015 I got my first opportunity to visit Havana Cuba with the Millikin Percussion Studio. While we were there we spent a week studying Cuban folkloric and popular music with some of the most renowned teachers in the country. After returning from that trip and joining Millikin&amp;rsquo;s Latin Jazz project, I got to record an album inspired by the Afro-Cuban rhythms and songs we learned while we were there. Balance Issues combined elements of rhumba, salsa and comparsa music with jazz and funk to make a series of songs that are both fun to dance to and exciting to perform!</description>
     </item>
     
     <item>

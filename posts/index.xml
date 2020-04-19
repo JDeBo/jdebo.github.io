@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Justin DeBo</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Justin DeBo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2019 07:53:07 -0600</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cuba</title>
+      <link>/posts/music/cuba/</link>
+      <pubDate>Sat, 16 Nov 2019 07:53:07 -0600</pubDate>
+      
+      <guid>/posts/music/cuba/</guid>
+      <description>In 2015 I got my first opportunity to visit Havana Cuba with the Millikin Percussion Studio. While we were there we spent a week studying Cuban folkloric and popular music with some of the most renowned teachers in the country. After returning from that trip and joining Millikin&amp;rsquo;s Latin Jazz project, I got to record an album inspired by the Afro-Cuban rhythms and songs we learned while we were there. Balance Issues combined elements of rhumba, salsa and comparsa music with jazz and funk to make a series of songs that are both fun to dance to and exciting to perform!</description>
+    </item>
+    
+  </channel>
+</rss>
